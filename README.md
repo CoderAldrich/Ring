@@ -1,5 +1,6 @@
 # Ring
 Ring is free software which allows its users to communicate in multiple ways.
+
 What?
 A telephone: a simple tool to connect, communicate and share.
 A teleconferencing tool: easily join calls to create conferences with multiple participants.
@@ -7,11 +8,13 @@ A media sharing tool: Ring supports a variety of video input options, including 
 A messenger: send text messeges during calls or out of calls (as long as your peer is connected).
 A building block for your IoT project: re-use the universal communications technology of Ring with its portable library on your system of choice.
  
+ 
 Who?
 Created and developped by a small team at Savoir-faire Linux and a growing community of contributors.
 Ring evolved from SFLPhone when the technology of DHT was added to it in 2014. Since then Ring has had a growing number of features and users.
 Beyond the code, Ring is an engine for research and development by creating partenrships between local universities in the offices of Montreal, Quebec.
 With the help of Google Summer of Code and student inters, Ring is participating in improving the technologies which make up the Internet.
+ 
  
 How?
 Ring has several goals that serve as guidelines for it's development:
