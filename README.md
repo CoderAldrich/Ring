@@ -1,5 +1,5 @@
 # Ring
-Ring is free software which allows its users to communicate in multiple ways.
+Ring is free software which allows its users to communicate in multiple ways.(https://ring.cx)
 
 ## What?
 >A telephone: a simple tool to connect, communicate and share.
